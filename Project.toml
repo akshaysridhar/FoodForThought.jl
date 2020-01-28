@@ -1,0 +1,7 @@
+name = "FoodForThought"
+uuid = "18511580-9b76-496b-887d-982c72afcf52"
+authors = ["Akshay Sridhar <asridhar@caltech.edu>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
